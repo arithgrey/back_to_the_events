@@ -1,0 +1,508 @@
+    
+            /**/
+            .button-registrar{
+                
+            }    
+            .text-eliminar{
+                
+            }
+            .btn_confirma_eliminar{
+                background: #e01111 !important;
+            }
+            .btn_cancelar{
+                background: #038bf7 !important;
+            }
+            .nombre_empresa{
+                font-weight: bold;
+                font-size: 2.5em !important;    
+                color: #174163 !important;
+            }
+
+            /**/
+            .ver-public-sm{              
+                display: block;                          
+                background: rgb(8, 65, 84);
+                padding: 10px;                
+                color: white;                 
+                
+            }                
+            .table_enid_service_header_s{
+                background: #024256;
+                color: white;
+            }            
+            .table_enid_service td{
+                text-align: center;
+            }
+
+            .nav > li > a:hover, .nav > li > a:focus{
+                    color: white;
+            }
+            .genero_registrado , .mas-info , .menos-info {
+                color: white;
+                cursor: pointer;
+                padding: 5px;
+            }        
+            .enid_hidden{
+                display: none;
+            }
+            .guardar_img_enid{
+                background: #133E50;
+            }
+            .num_registros_encontrados{
+                font-size: 1em;
+                font-weight: bold;
+            }
+
+            .table_enid_service{
+                width: 100%;    
+                font-size: .68em !important;
+            }   
+            .fa-cog{
+                cursor: pointer;
+              }
+            .f-enid{
+                background: rgb(2, 36, 47);
+                color: white;
+            }
+            .table_enid_service .table_enid_service_header{
+                background: #2196f3;
+                color: white;
+            }
+            
+            .maps_enid{
+                background: #166781;
+                padding: 10px;
+                color: white;
+            }    
+            .modal-content .modal-header{background-color:#bde2ec}.modal-content .modal-title{color:#fff}.modal-open .page-wrapper{-webkit-filter:blur(3px);-moz-filter:blur(5px);-o-filter:blur(5px);-ms-filter:blur(5px);filter:blur(5px)}.modal-footer .btn+.btn{margin-bottom:5px}@media (min-width:1200px){.modal-lg{width:1140px}}.overlay-container{position:relative;display:block;text-align:center;overflow:hidden}.overlay-bottom,.overlay-to-top,.overlay-top{color:#fff;position:absolute;top:auto;background-color:rgba(30,30,30,.5);opacity:0;filter:alpha(opacity=0)}
+            ul.revenue-nav{
+                float: left;
+            }
+            .icon-maps{
+                color: white;
+            }
+            .imagen-slider-enid{
+                height: 700px;
+            }
+            .titulo_enid_service{
+                font-weight: bold;
+                font-size: 1.4em;
+                color: #174163 !important;
+            }
+            .text-resumen-evento{
+                color: white;
+            }
+            .nombre_evento_text{
+                font-weight: bold;
+                background: #05c3ff;
+                padding: 1px;
+            }
+            .seccion-r-eventos{
+                background: #f0fafd;
+                padding: 10px;
+            }
+            .locacion{
+                color: white;
+            }
+            .a_resum_event{
+                color: #166781;
+
+            }
+            .seccion_evento_enid{
+                //background: #166781;
+                background: #04a596;
+                padding: 10px;
+            }
+            .seccion_evento_enid a{
+                color: #166781;
+            }
+            .notification-menu .info-number{
+                background: #166781;
+            }
+            .header-section{
+                background:#166781    
+            }        
+            .text-load{
+                color: #09AFDF;
+                font-weight: bold;
+            }
+            .menu-enid{
+                background: #038798;
+            }
+            .btn_metricas{
+
+                background: #038798;
+                border-radius: 2px;
+                color: white;
+                padding: 8px;
+                text-decoration: none;                
+            }              
+            
+            /*Los templates */
+            .btn_configurar_enid , .text-reservaciones{
+              display: inline-block;
+            }
+            .dias_restantes{
+                font-size: .7em;
+                font-weight: bold;
+                background: #19344a;
+                color: white;
+                padding: 5px;
+            }
+            .btn_call_to_emp{
+              
+                background: #166781;
+                color: white;
+                border-radius: 0;
+                border-style: solid;
+                border-width: 0;
+                cursor: pointer;    
+                border-color: #007095;
+                color: #FFFFFF;    
+            }
+
+            .btn_call_to_emp:hover{    
+                background: #24A2F2 none repeat scroll 0% 0%;
+                color: white;
+                border-radius: 0;
+                border-style: solid;
+                border-width: 0;
+                cursor: pointer;    
+                border-color: #007095;
+                color: #FFFFFF;
+                
+            }
+            body{
+                font:  16px/28px 'Hind','Helvetica Neue',Helvetica,sans-serif !important;
+            }ul{ 
+                list-style: none !important 
+            }
+
+
+            .text-filtro-enid{        
+                display: none;
+            }
+
+            
+            .nombre_empresa_enid{
+                
+                font-size: 1.7em;
+                color: white;
+                font-weight: bold;    
+                background: rgb(62, 178, 192);
+                padding: 5px;
+            }iframe{
+                border: 0px !important;
+            }.frame-artistas{
+                
+            }
+            .enid-lg-hidden{
+                display: none;
+            }.part_desc_{
+                background: rgb(4, 97, 136);
+            }.text_link_accesos_enid{
+                color: black;
+            }.link-event-enid{
+                font-size:3.7em;              
+                font-weight: bold;          
+                text-decoration: none;
+              
+            }.link-event-enid:hover{
+                text-decoration: none;
+                color: white;
+            }.text-title-enid{
+                font-size: 2em;
+                font-weight: bold;
+                text-decoration: none;
+                color: black;
+            }.hiddden_descripcion{
+                display: none;
+            }.more-info-f-up{
+                display: none;
+            }.more-info-f-up:hover , .more-info-f-down:hover{
+                cursor: pointer;
+            }.hiddden_descripcion , .show_descripcion{
+                font-size: .9em;
+            }.text-imagen-enid-b{                
+                font-weight: bold;
+            }.text-imagen-enid{
+                color: white;
+                font-weight: bold;
+            }.text-imagen-enid:hover , .text-imagen-enid-b:hover{
+                cursor: pointer;
+            }.main-content{        
+                background: #f9fbfd;
+                color: #00090C;                
+            }.enid-header-table , .header-table-info{        
+                background: #0B6777;
+                color: white;
+                font-size: 1em !important;
+                font-weight: bolder;
+                text-align: center !important;
+            }.blue-col-enid{            
+                background: #038798;
+                color: white;            
+            }.btn_nnuevo{            
+                background: #166781;
+                color: white;
+
+                border-radius: 0;
+                border-style: solid;
+                border-width: 0;
+                cursor: pointer;
+                padding: 1rem 1.77778rem 0.94444rem 1.77778rem;
+                font-size: 0.98889rem;
+                //background-color: #008CBA;
+                border-color: #007095;
+                color: #FFFFFF;
+                
+                
+
+
+            }.btn_nnuevo:hover{            
+                background: #00BCD4;
+                color: white;
+            }a{
+                color: #09AFDF;
+                transition: all 0.2s ease-in-out 0s;
+            }.btn_busqueda{
+                background: #19344a;
+                color: white;
+                border-radius: 0;
+                border-style: solid;
+                border-width: 0;
+                cursor: pointer;
+                padding: 1rem 1.77778rem 0.94444rem 1.77778rem;
+                font-size: 0.98889rem;
+                //background-color: #008CBA;
+                border-color: #007095;
+                color: #FFFFFF;                
+            }.btn-default{
+                background: #19344a;
+                color: white;
+                border-radius: 0;
+                border-style: solid;
+                border-width: 0;
+                cursor: pointer;
+                padding: 1rem 1.77778rem 0.94444rem 1.77778rem;
+                font-size: 0.98889rem;
+                //background-color: #008CBA;
+                border-color: #007095;
+                color: #FFFFFF; 
+            }
+
+            .title-page-enid{
+                //margin-top: -1px;
+            }.btn-template{
+                background: #1A6174 !important;
+                color: white !important;
+                border-radius: 0;
+                border-style: solid;
+                border-width: 0;
+                cursor: pointer;
+                padding: 1rem 1.77778rem 0.94444rem 1.77778rem;
+                font-size: 0.98889rem;
+                //background-color: #008CBA;
+                border-color: #007095;
+                color: #FFFFFF;
+
+            }.blue-col-enid-more{
+                 background: #FCF566 none repeat scroll 0% 0% !important;
+                color: black !important;
+                font-size: 1.5em !important;
+            }.header-panel{
+                font-size: .9em;            
+                text-align: center !important;
+            }.white-enid{
+                color: white !important;
+            }.scroll-enid{
+                height: 600px;
+                overflow-x: auto;
+                overflow: scroll;
+                width: 100%;
+            }.scroll-horizontal-enid{            
+                overflow-x: auto;                    
+            }.scroll-enid-public{
+                height: 300px;        
+            }
+            h1 , h1 a,h2 a,h3 a,h4 a,h5 a,h6 a , h1 strong{color: #166781}  
+            .enid-filtro-busqueda:hover{                    
+                cursor: pointer;
+            }.scroll-vertical-enid{
+                overflow-x:hidden; 
+                overflow-y:scroll;            
+            }.img-icon-enid{
+                margin: 0 auto;            
+                background: #357ebd !important;    
+                color: white;
+            }.img-icon-enid:hover{
+                cursor: pointer; 
+            }.modal-enid {            
+                margin: 0px;
+            }.modal-enid .modal-content {
+                //margin-top: 5%;
+                border-radius: 0px;
+                border-left-width: 0px;
+                border-right-width: 0px;
+                height: 80%;
+                overflow: auto;
+            }.modal-enid .modal-title {
+                font-size: 34px;
+                font-weight: bold;
+            }.tab_enid:hover{
+                cursor: pointer;
+                text-decoration: none;
+                color: black;
+            }.tab_enid{
+                font-size: .8em;
+                text-decoration: underline;
+                color: black;
+            }.titulo-enid{
+                color: #166781 !important;
+                font-size: 24px !important;
+                font-weight: bold !important;
+                margin: 0px 0px 5px !important;
+                text-transform: uppercase !important;
+           }.titulo-enid-sm{
+                color: #166781 !important;
+                font-size: 18px;
+                font-weight: bold;
+                margin: 0px 0px 5px;
+                text-transform: uppercase;
+            }.error_enid{
+                background: red;
+                color: white;
+            }.response_ok_enid{            
+                background: #357ebd !important;
+                width: 25%;
+                padding: 2px;
+                color: white !important;
+            }.alerta_enid{
+                background: #ba6d78;
+                width: 25%;
+                padding: 2px;
+                color: white;   
+                font-size: .9em;
+                border-radius: 1px;
+            }.uppercase_enid{
+                text-transform:uppercase;
+            }.nav > li > a:hover, .nav > li > a:focus{
+                  background: #CCD0B0;  
+            }.text-filtro-enid{
+                font-size: .7em;
+                text-align: center !important;
+            }.links_modal .link_modal{
+              text-decoration: none;
+              color: white;
+              font-size: .9em;
+              padding: 7px  20px ;
+              background: #3C5E79;  
+              width: 25%;
+            }
+            .links_modal .link_modal:hover{
+              text-decoration: none;
+              color: white;
+              font-size: .9em;
+              padding: 13px  10px;
+              background: rgb(62, 178, 192);  
+            }
+            .text-desc-enid{
+                font-size: .9em;
+            }.text_completo{
+                display: none;
+            }
+            .parte_descripcion,
+            .text_completo{
+                font-size: .8em !important;
+            }
+            /**/
+            .tex_hidden_title{
+                display: none;
+            }
+            
+            
+            .btn-empresa-link{
+                font-weight: bold;
+                color: #083641;
+            }
+            .btn-empresa-link:hover{
+                font-weight: bold;
+                color: #083641;
+                text-decoration: none;
+            }
+            .msj_notificacion_config{
+                    margin: 0 auto;
+                    text-align: center;
+                    background-color: #038798;
+
+                    color: white;
+                    padding: 1px;
+                    font-size: .6em;
+                }
+            /*Todo lo que pertenece a medios*/
+            @media only screen and (max-width: 991px) {
+                
+                .imagen-slider-enid{
+                    width: 100%;
+                    height: 220px;
+                }
+
+
+                .btns-def-enid{
+                    display: none;
+                }
+
+                .icono-g-enid{
+                    width: 14% !important;
+                }
+                .link-event-enid{
+                    font-size:3.7em;                    
+                    font-weight: bold;          
+                    text-decoration: none;                    
+                }
+
+                
+                .menu_seleccion_enid{
+                    display: none;
+                }
+                .text-filtro-enid{ 
+                    display: block;      
+                    background: #055D80;
+                    color: white;                    
+                    //margin-bottom: 3px;    
+                    width: 50%;
+                }                   
+                .text-filtro-enid:hover{ 
+                    cursor: pointer;
+                }   
+                .hidden-field-mov{
+                  display: none;
+                }
+                .msj_notificacion_config{
+                    padding: 1px;                                    
+                }                
+                
+                .enid-lg-hidden{
+                    display: block;
+                }.tex_hidden_title{
+                    display: block;
+                }
+
+            }
+        
+        @media (min-width: 992px) {
+            .modal-enid .modal-header,
+            .modal-enid .modal-body,
+            .modal-enid .modal-footer {
+                width: 900px;
+            }
+        }
+        @media (min-width: 768px) {
+            .modal-enid .modal-header,
+            .modal-enid .modal-body,
+            .modal-enid .modal-footer {
+                width: 600px;
+                margin: 30px auto;
+            }
+        }
+        
